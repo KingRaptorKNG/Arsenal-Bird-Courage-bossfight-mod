@@ -1,0 +1,167 @@
+{
+  "mq101ambient": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "arsenalbirdmod:mq101",
+        "stream": false
+      }
+    ]
+  },
+  "explosion_far": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "arsenalbirdmod:explosion_far_1",
+        "stream": false
+      },
+      {
+        "name": "arsenalbirdmod:explosion_far_2",
+        "stream": false
+      },
+      {
+        "name": "arsenalbirdmod:explosion_far_3",
+        "stream": false
+      }
+    ]
+  },
+  "beep": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "arsenalbirdmod:missilebeep",
+        "stream": false
+      }
+    ]
+  },
+  "voice": {
+    "category": "ambient",
+    "subtitle": "subtitles.voice",
+    "sounds": [
+      {
+        "name": "arsenalbirdmod:missilevoice",
+        "stream": false
+      }
+    ]
+  },
+  "aps_unit": {
+    "category": "master",
+    "subtitle": "subtitles.aps_unit",
+    "sounds": [
+      {
+        "name": "arsenalbirdmod:falling-02",
+        "stream": false
+      }
+    ]
+  },
+  "aps_charging_up": {
+    "category": "master",
+    "subtitle": "subtitles.aps_charging_up",
+    "sounds": [
+      {
+        "name": "arsenalbirdmod:aps_charge_1",
+        "stream": false
+      }
+    ]
+  },
+  "aps_turn_on": {
+    "category": "master",
+    "subtitle": "subtitles.aps_turn_on",
+    "sounds": [
+      {
+        "name": "arsenalbirdmod:aps_turn_on",
+        "stream": false
+      }
+    ]
+  },
+  "aps_destroyed": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "arsenalbirdmod:apsdestroyed",
+        "stream": false
+      }
+    ]
+  },
+  "propeller": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "arsenalbirdmod:desktop-2025.03.31-00.43.08.05",
+        "stream": false
+      }
+    ]
+  },
+  "arsenalbirdambient": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "arsenalbirdmod:arsenalbird_ambient",
+        "stream": false
+      }
+    ]
+  },
+  "missile_sound": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "arsenalbirdmod:missile_sound_1",
+        "stream": false
+      }
+    ]
+  },
+  "aps_ambient": {
+    "category": "master",
+    "subtitle": "subtitles.aps_ambient",
+    "sounds": [
+      {
+        "name": "arsenalbirdmod:aps_ambient",
+        "stream": false
+      }
+    ]
+  },
+  "aps_turn_off": {
+    "category": "master",
+    "subtitle": "subtitles.aps_turn_off",
+    "sounds": [
+      {
+        "name": "arsenalbirdmod:aps_turn_off",
+        "stream": false
+      }
+    ]
+  },
+  "helios_explode": {
+    "category": "master",
+    "subtitle": "subtitles.helios_explode",
+    "sounds": [
+      {
+        "name": "arsenalbirdmod:helios_1",
+        "stream": false
+      },
+      {
+        "name": "arsenalbirdmod:helios_2",
+        "stream": false
+      }
+    ]
+  },
+  "helios_launch": {
+    "category": "master",
+    "subtitle": "subtitles.helios_launch",
+    "sounds": [
+      {
+        "name": "arsenalbirdmod:helioslaunch",
+        "stream": false
+      }
+    ]
+  },
+  "warn_beep": {
+    "category": "master",
+    "subtitle": "subtitles.warn_beep",
+    "sounds": [
+      {
+        "name": "arsenalbirdmod:warnbeep",
+        "stream": false
+      }
+    ]
+  }
+}

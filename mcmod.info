@@ -1,0 +1,20 @@
+[
+  {
+    "modid": "arsenalbirdmod",
+    "name": "Arsenal Bird bossfight",
+    "description": "<?WARNING! This mod might have poor performance on less powerfull PCs! This mod features a lot of moving parts, entities and missiles! 32 render distance is recommended for best experience! ?> This mod adds the Arsenal Bird from Ace Combat 7, as well as its drones MQ-101s. It's a large scale aerial bossfight, with the Arsenal Bird periodically enabling its microwave shield. To defeat this bird you need to destroy all its essential parts, start off from its propellers, then its supply unit holding hooks, and finally the heart of this bird, the APS unit, located in the middle of the plane! Without supply unit, this plane can't enable its microwave shield anymore, so its a big opportunity for you to stick a fork into it! Each time you destroyr something essential, the bossfight stage changes. They're only 3 stages.",
+    "version": "1.0.0",
+    "credits": "Arsenal Bird model: Loxoperdya' MQ-101 model: _Kng; Sounds: zvukipro// Inspired by Ace Combat 7// Created using mod maker MCreator - https://mcreator.net/about",
+    "logoFile": "assets/arsenalbirdmod/textures/enemiesicon.png",
+    "mcversion": "1.12.2",
+    "url": "https://mcreator.net",
+    "updateUrl": "",
+    "authorList": [
+      "_Kng, MCreator"
+    ],
+    "dependencies": [],
+    "dependants": [],
+    "requiredMods": [],
+    "useDependencyInformation": "true"
+  }
+]
